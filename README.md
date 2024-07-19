@@ -14,13 +14,6 @@
 <div align="center">
 
 
-<img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
-</div>
-
-
-<div align="left">
 
 <!---
 EmanuelBzra/EmanuelBzra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
